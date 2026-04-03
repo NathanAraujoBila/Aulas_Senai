@@ -1,0 +1,49 @@
+📚 Videoaula – Estruturas de Dados (Resumo da aula 1, Módulo 1)
+
+- Lógica de programação = resolver problemas usando sequência de passos
+
+- A lógica está presente no dia a dia
+  - exemplo: fazer café (acordar → esquentar água → preparar → tomar → lavar)
+  - tudo segue uma sequência lógica
+
+- Importância da lógica:
+  - criar algoritmos eficientes
+  - reduzir erros (bugs)
+  - facilitar resolução de problemas
+
+- Aplicação:
+  - usada em problemas simples (ex: média de alunos)
+  - usada em problemas complexos (ex: previsão do tempo)
+    - coleta de dados (temperatura, umidade, etc)
+    - análise e comparação
+    - uso de estruturas condicionais
+
+- Exemplo de problema complexo:
+  - caixeiro viajante (achar o melhor caminho sem repetir cidades)
+
+- Ferramentas para aprender:
+  - Scratch (visual e interativo)
+  - Programiz (compilador online)
+  - NetBeans (desenvolvimento)
+  - Spring Tool Suite (criação automática de projetos)
+
+- Fluxograma:
+  - representação gráfica de um algoritmo
+  - usa símbolos (início, processo, decisão, entrada/saída)
+  - mostra passo a passo com setas
+
+- Exemplo de fluxo (farmácia):
+  - entrar → procurar produto → ir ao caixa → pagar → sair
+
+- Ferramentas para fluxograma:
+  - Miro
+  - Lucidchart
+  - PowerPoint / Word
+
+- Exemplo de algoritmo (média):
+  - início
+  - pedir nota 1
+  - pedir nota 2
+  - calcular média = (nota1 + nota2) / 2
+  - mostrar resultado
+  - fim
