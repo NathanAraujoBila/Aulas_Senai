@@ -1,3 +1,5 @@
+// Continua sendo da mesma aula -> Tipos de dados, operadores e estruturas condicionais
+
 #include <stdio.h>
 
 int main() {
