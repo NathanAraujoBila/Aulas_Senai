@@ -1,0 +1,32 @@
+📚 Videoaula – Funções e Subprogramação (Resumo da aula 1, Módulo 2)
+
+- Funções, subrotinas, procedimentos e métodos são basicamente a mesma coisa
+
+- Servem para:
+  - facilitar a vida do programador
+  - organizar o código
+  - ajudar na criação de programas mais complexos
+
+- Definição:
+  - função = pequeno programa dentro do programa principal
+  - executa uma parte específica de um problema maior
+
+- Exemplo (xadrez):
+  - cada peça tem uma função específica (cavalo, bispo, etc)
+  - na programação é igual: cada função faz uma tarefa específica
+
+- Ideia principal:
+  - dividir um problema grande em partes menores
+
+- Conceito importante: refinamento sucessivo
+  - quebrar um problema em partes menores até resolver tudo
+
+- Exemplo (quebra-cabeça):
+  - separar peças por tipo
+  - depois por cores
+  - depois por detalhes
+  - montar aos poucos
+
+- Conclusão:
+  - funções ajudam a organizar e dividir problemas
+  - tornam o desenvolvimento mais simples e eficiente
