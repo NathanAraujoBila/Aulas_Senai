@@ -1,0 +1,29 @@
+📚 Videoaula – Estruturas de Dados (Resumo da aula 1, Módulo 3)
+
+- Estruturas de dados servem para organizar os dados dentro de um programa
+- Comparação com a estrutura de uma casa (organização e sustentação)
+
+- Vantagens:
+  - mais fácil de trabalhar
+  - mais eficiência
+  - menos bugs
+
+- Tipos de estruturas:
+  - homogêneas (mesmo tipo de dado)
+  - heterogêneas
+  - uma ou mais dimensões
+
+- Foco da aula:
+  - estrutura homogênea de 1 dimensão
+
+- Significado:
+  - mesmo tipo de dado
+  - armazenado em uma única estrutura
+
+- Exemplo:
+  - idade de 30 alunos (todos inteiros → homogêneo)
+
+- Importância:
+  - melhora o desempenho
+  - organiza a memória
+  - facilita o desenvolvimento de algoritmos
