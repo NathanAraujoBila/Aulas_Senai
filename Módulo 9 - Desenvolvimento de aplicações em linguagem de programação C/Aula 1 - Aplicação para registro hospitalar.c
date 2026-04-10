@@ -45,6 +45,7 @@ int main() {
         
         //validação da escolha de usuário
         if ((escolha != 's') && (escolha != 'S' )){
+            printf("Cadastro Finalizado com sucesso.");
             break;
         }
         
